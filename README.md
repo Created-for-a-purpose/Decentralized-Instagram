@@ -1,5 +1,11 @@
-# React Truffle Box
+## Screenshots from the project
+![Screenshot 2023-06-15 141356](https://github.com/Created-for-a-purpose/Decentralized-Instagram/assets/97793907/c7d6358e-6628-41d8-bb8d-6b0075eef2e6)
 
+After clicking Tip 0.1 ETH -
+
+![Screenshot 2023-06-15 142728](https://github.com/Created-for-a-purpose/Decentralized-Instagram/assets/97793907/97d4cc0c-bf3f-49fa-8b7a-56a00ed07e67)
+
+# React Truffle Box
 This box comes with everything you need to start using Truffle to write, compile, test, and deploy smart contracts, and interact with them from a React app.
 
 ## Installation
